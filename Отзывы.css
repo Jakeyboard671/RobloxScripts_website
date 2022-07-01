@@ -34,8 +34,9 @@
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: 9px;
-    margin-left: calc(((100% - 1140px) / 2) + 513px);
+    margin-top: 10px;
+    margin-right: 145px;
+    margin-left: calc(((100% - 340px) / 2) + 131px);
   }
 
   .u-section-1 .u-btn-1 {
